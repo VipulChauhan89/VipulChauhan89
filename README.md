@@ -15,7 +15,3 @@
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vipulchauhan89&show_icons=true&theme=tokyonight&locale=en" alt="vipulchauhan89" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vipulchauhan89&theme=tokyonight" alt="vipulchauhan89" /></p>
-
-
