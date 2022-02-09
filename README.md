@@ -1,19 +1,23 @@
-<h1 align="center">Hi <span class="wave">👋</span>, I'm Vipul Chauhan</h1>
+# <p align="center"> **Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Vipul Chauhan**</p>
 
+## <p align="center"> A passionate software developer from India.</p>
 
-<h2 align="center">A passionate software developer from India.</h2>
-
+<p align="left"><img src="https://avatars.githubusercontent.com/u/90852928?v=4" width="250" height="250"></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vipulchauhan89&label=Profile%20views&color=0e75b6&style=flat" alt="vipulchauhan89" /> </p>
 
-- <span class="wave">🌱</span> I’m currently learning *B.Tech(CSE)*
 
-- <span class="wave">💬</span> Ask me about *C,C++*
+- 🌱 I'm Currently pursuing B.Tech(CSE).
 
-- <span class="wave">📫</span> How to reach me *vipulchauhan548@gmail.com*
+- 💬Ask me about anything related to C,C++,Java,Python programming.
 
-- 5 <span class="wave">⭐️</span> C++ and 4 <span class="wave">⭐️</span> C coder at HackerRank
+- 📫 How to reach me vipulchauhan548@gmail.com
+
+- 5 ⭐️ C++ and 4 ⭐️ C coder at HackerRank
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vipulchauhan89&show_icons=true&theme=tokyonight&locale=en" alt="vipulchauhan89" /></p>
+[![Vipul Chauhan GitHub stats](https://github-readme-stats.vercel.app/api?username=VipulChauhan89&show_icons=true&theme=dracula)](https://github.com/VipulChauhan89)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VipulChauhan89&show_icons=true&theme=dracula&hide=SWIG,Assembly)](https://github.com/anuraghazra/github-readme-stats)
+
