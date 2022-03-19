@@ -3,7 +3,10 @@
 ## <p align="center"> A passionate software developer from India.</p>
 
 <p align="left"><img src="https://avatars.githubusercontent.com/u/90852928?v=4" width="250" height="250"></p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vipulchauhan89&label=Profile%20views&color=0e75b6&style=flat" alt="vipulchauhan89" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vipulchauhan89&label=Profile%20views&color=32CD32&style=flat" alt="vipulchauhan89" /> </p> 
+
+[![Repos Badge](https://badges.pufler.dev/repos/VipulChauhan89)](https://badges.pufler.dev)
+[![Commits Badge](https://badges.pufler.dev/commits/monthly/VipulChauhan89)](https://badges.pufler.dev)
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=VipulChauhan89&show_icons=true&theme=dracula&title=MultiLanguage&title=Commits&title=Stars&title=Repositories&title=Followers)](https://github.com/ryo-ma/github-profile-trophy)
