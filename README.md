@@ -6,6 +6,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vipulchauhan89&label=Profile%20views&color=0e75b6&style=flat" alt="vipulchauhan89" /> </p>
 
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=VipulChauhan89&show_icons=true&theme=dracula&title=MultiLanguage&title=Commits&title=Stars&title=Repositories&title=Followers)](https://github.com/ryo-ma/github-profile-trophy)
+
 - 🌱 I'm Currently pursuing B.Tech(CSE).
 
 - 💬Ask me about anything related to C,C++,Java,Python programming.
@@ -20,4 +22,6 @@
 [![Vipul Chauhan GitHub stats](https://github-readme-stats.vercel.app/api?username=VipulChauhan89&show_icons=true&theme=dracula)](https://github.com/VipulChauhan89)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VipulChauhan89&show_icons=true&theme=dracula&hide=SWIG,Assembly)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VipulChauhan89&show_icons=true&theme=dracula)](https://git.io/streak-stats)
 
