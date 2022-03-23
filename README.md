@@ -8,7 +8,6 @@
 [![Repos Badge](https://badges.pufler.dev/repos/VipulChauhan89)](https://badges.pufler.dev)
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/VipulChauhan89)](https://badges.pufler.dev)
 
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=VipulChauhan89&show_icons=true&theme=dracula&title=MultiLanguage&title=Commits&title=Stars&title=Repositories&title=Followers)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 🌱 I'm Currently pursuing B.Tech(CSE).
