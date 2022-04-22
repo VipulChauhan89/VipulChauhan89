@@ -1,5 +1,4 @@
 # <p align="center"> **Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Vipul Chauhan**</p>
-
 ## <p align="center"> A passionate software developer from India.</p>
 
 <p align="left"><img src="https://avatars.githubusercontent.com/u/90852928?v=4" width="250" height="250"></p>
