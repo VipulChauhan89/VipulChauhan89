@@ -13,7 +13,7 @@
 
 - 🌱 I'm Currently pursuing B.Tech(CSE).
 
-- 💬Ask me about anything related to C,C++,Java,Python programming.
+- 💬Ask me about anything related to C,C++,Java,Python,HTML,CSS,Javascript programming.
 
 - 📫 How to reach me vipulchauhan548@gmail.com
 
