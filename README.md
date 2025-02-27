@@ -12,12 +12,12 @@
 ---
 
 ## 🚀 About Me
-
-- 🎓 Pursuing **B.Tech in Computer Science & Engineering**
+- ❤️‍🔥 A Passionate Software Developer
+- 🎓 Pursuied **B.Tech in Computer Science & Engineering**
 - 💻 Building scalable web & mobile applications
 - 🔥 Enthusiastic about **Software Development, DevOps, AI, and Open Source**
 - 🌱 Currently mastering **System Design, Backend Development, and DSA**
-- 🎯 Goal: Becoming a **Software Architect & Problem-Solving Expert**
+- 🎯 Goal: Becoming a **Good Software Engineer & Problem-Solving Expert**
 - 📫 **Reach me at:** [vipulchauhan548@gmail.com](mailto:vipulchauhan548@gmail.com)
 - 🌐 Check out my **[Personal Portfolio](https://vipulchauhan89.github.io/Personal-portfolio/)**
 
