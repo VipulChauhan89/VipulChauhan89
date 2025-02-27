@@ -1,37 +1,93 @@
-# <p align="center"> **Hi 👋, I'm Vipul Chauhan**</p>
-## <p align="center"> A passionate software developer from India.</p>
+# <p align="center">👋 Hi, I'm Vipul Chauhan</p>
+## <p align="center"> A Passionate Software Developer | Full-Stack Engineer | Open-Source Enthusiast</p>
 
-<p align="left"><img src="https://avatars.githubusercontent.com/u/90852928?v=4" width="250" height="250"></p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vipulchauhan89&label=Profile%20views&color=32CD32&style=flat" alt="vipulchauhan89" /> </p> 
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/90852928?v=4" width="200" height="200">
+</p>
 
-[![Repos Badge](https://badges.pufler.dev/repos/VipulChauhan89)](https://badges.pufler.dev)
-[![Commits Badge](https://badges.pufler.dev/commits/monthly/VipulChauhan89)](https://badges.pufler.dev)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vipulchauhan89&label=Profile%20views&color=32CD32&style=flat" alt="Profile Views" />
+</p>
 
-### Badges
+---
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=VipulChauhan89&show_icons=true&theme=dracula&title=MultiLanguage&title=Commits&title=Stars&title=Repositories&title=Followers)](https://github.com/ryo-ma/github-profile-trophy)
+## 🚀 About Me
 
-- 🌱 I'm Currently pursuing B.Tech(CSE).
+- 🎓 Pursuing **B.Tech in Computer Science & Engineering**
+- 💻 Building scalable web & mobile applications
+- 🔥 Enthusiastic about **Software Development, DevOps, AI, and Open Source**
+- 🌱 Currently mastering **System Design, Backend Development, and DSA**
+- 🎯 Goal: Becoming a **Software Architect & Problem-Solving Expert**
+- 📫 **Reach me at:** [vipulchauhan548@gmail.com](mailto:vipulchauhan548@gmail.com)
+- 🌐 Check out my **[Personal Portfolio](https://vipulchauhan89.github.io/Personal-portfolio/)**
 
-- 💬Ask me about anything related to C,C++,Java,Python,HTML,CSS,Javascript programming.
+---
 
-- 📫 How to reach me vipulchauhan548@gmail.com
+## 🛠️ Tech Stack
 
+### 💻 Programming Languages
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-### Skills
+### 🌐 Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer%20Motion-0055FF?style=flat&logo=framer&logoColor=white)
 
-<p align="left"> <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a> <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a> <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a> <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a> <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a> <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a> </p> 
+### 🔥 Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat&logo=amazon-dynamodb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
 
-### Socials  <p align="left"> <a href="https://www.github.com/VipulChauhan89" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/vipul_chauhan89/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/vipul-chauhan-19352b1b6/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+### 🛠️ DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
+---
 
-<b>My GitHub Stats</b>
+## 🌟 Featured Projects
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VipulChauhan89&show_icons=true&theme=rose_pine&hide=SWIG,Assembly)](https://github.com/anuraghazra/github-readme-stats)
+### 🚀 [Personal Portfolio](https://vipulchauhan89.github.io/Personal-portfolio/)
+A dynamic portfolio showcasing my skills, projects, and achievements.
 
-<a href="http://www.github.com/VipulChauhan89"><img src="https://github-readme-stats.vercel.app/api?username=VipulChauhan89&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="VipulChauhan89's GitHub stats" /></a>
+### 🏆 [Football Manager App](https://github.com/VipulChauhan89/Football-Manager-App)
+A dynamic web app built with React, Tailwind, Redux to manage teams & visualize formations.
+
+### 📸 [Smart Attendance Capturing Mobile Application](https://github.com/VipulChauhan89/Presence-2.0)
+Advanced face recognition & geofencing-based attendance system.
+
+### 🍽️ [Deliveroo Clone](https://github.com/VipulChauhan89/Deliveroo-Clone)
+A full-stack food delivery app built with React Native, Redux, Sanity, and Tailwind CSS.
+
+[➡ View More Projects](https://github.com/VipulChauhan89?tab=repositories)
+
+---
+
+## 📊 GitHub Stats
+
+<a href="http://www.github.com/VipulChauhan89"><img src="https://github-readme-stats.vercel.app/api?username=VipulChauhan89&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="GitHub Stats" /></a>
 
 <a href="http://www.github.com/VipulChauhan89"><img src="https://github-readme-streak-stats.herokuapp.com/?user=VipulChauhan89&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/VipulChauhan89"><img src="https://activity-graph.herokuapp.com/graph?username=VipulChauhan89&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+---
+
+## 🔗 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/vipul-chauhan-19352b1b6/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/VipulChauhan89" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"></a>
+  <a href="http://www.instagram.com/vipul_chauhan89/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"></a>
+</p>
+
+---
+
+🚀 **Let's build something amazing together!**
 
