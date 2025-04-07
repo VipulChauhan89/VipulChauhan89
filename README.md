@@ -19,6 +19,7 @@
 - 🌱 Currently mastering **System Design, Backend Development, and DSA**
 - 🎯 Goal: Becoming a **Good Software Engineer & Problem-Solving Expert**
 - 📫 **Reach me at:** [vipulchauhan548@gmail.com](mailto:vipulchauhan548@gmail.com)
+- ✉️ Chek out my **[Resume](https://github.com/VipulChauhan89/VipulChauhan89/blob/main/Resume/Resume_VipulChauhan.pdf)**
 - 🌐 Check out my **[Personal Portfolio](https://vipulchauhan89.github.io/Personal-portfolio/)**
 
 ---
