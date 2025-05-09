@@ -13,6 +13,7 @@
 
 ## 🚀 About Me
 - ❤️‍🔥 A Passionate Software Developer
+- 🛠️ System Engineer @TCS
 - 🎓 Pursuied **B.Tech in Computer Science & Engineering**
 - 💻 Building scalable web & mobile applications
 - 🔥 Enthusiastic about **Software Development, DevOps, AI, and Open Source**
